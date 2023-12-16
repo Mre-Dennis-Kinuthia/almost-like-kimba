@@ -1,0 +1,19 @@
+{
+  "name": "almost-like-kimba",
+  "version": "1.0.0",
+  "description": "A code plagiarism detector tool almost like kimba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mre-Dennis-Kinuthia/almost-like-kimba.git"
+  },
+  "author": "Dennis Ndun'gu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mre-Dennis-Kinuthia/almost-like-kimba/issues"
+  },
+  "homepage": "https://github.com/Mre-Dennis-Kinuthia/almost-like-kimba#readme"
+}
